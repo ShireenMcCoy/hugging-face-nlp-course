@@ -1,3 +1,2 @@
-# hugging-face-nlp-course
-
-Exercised based on Hugging Face's NLP course.
+# Hugging Face NLP Course Experiments
+Exercises based on Hugging Face's NLP course.
